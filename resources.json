@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "title": "MDN Web Docs",
+    "category": "programming",
+    "link": "https://developer.mozilla.org",
+    "description": "Comprehensive resource for web technologies including HTML, CSS, and JavaScript."
+  },
+  {
+    "id": 2,
+    "title": "W3Schools",
+    "category": "programming",
+    "link": "https://www.w3schools.com",
+    "description": "Beginner-friendly tutorials for web development technologies."
+  },
+  {
+    "id": 3,
+    "title": "CSS-Tricks",
+    "category": "design",
+    "link": "https://css-tricks.com",
+    "description": "Articles, tips, and tricks about CSS and front-end development."
+  },
+  {
+    "id": 4,
+    "title": "Khan Academy Math",
+    "category": "math",
+    "link": "https://www.khanacademy.org/math",
+    "description": "Free math courses from basic arithmetic to calculus."
+  },
+  {
+    "id": 5,
+    "title": "Codecademy",
+    "category": "programming",
+    "link": "https://www.codecademy.com",
+    "description": "Interactive coding courses for various programming languages."
+  },
+  {
+    "id": 6,
+    "title": "FreeCodeCamp",
+    "category": "programming",
+    "link": "https://www.freecodecamp.org",
+    "description": "Free coding tutorials and projects to build your portfolio."
+  },
+  {
+    "id": 7,
+    "title": "Coursera Computer Science",
+    "category": "programming",
+    "link": "https://www.coursera.org/browse/computer-science",
+    "description": "Online computer science courses from top universities."
+  },
+  {
+    "id": 8,
+    "title": "Duolingo",
+    "category": "language",
+    "link": "https://www.duolingo.com",
+    "description": "Free language learning platform with gamified lessons."
+  },
+  {
+    "id": 9,
+    "title": "Khan Academy Science",
+    "category": "science",
+    "link": "https://www.khanacademy.org/science",
+    "description": "Free science courses covering physics, chemistry, and biology."
+  },
+  {
+    "id": 10,
+    "title": "Figma Design Basics",
+    "category": "design",
+    "link": "https://www.figma.com/resources/learn-design/",
+    "description": "Learn UI/UX design fundamentals with Figma tutorials."
+  },
+  {
+    "id": 11,
+    "title": "Google Developers",
+    "category": "programming",
+    "link": "https://developers.google.com",
+    "description": "Resources, tools, and documentation for Google technologies."
+  },
+  {
+    "id": 12,
+    "title": "Stack Overflow",
+    "category": "programming",
+    "link": "https://stackoverflow.com",
+    "description": "Q&A community for programmers to share knowledge."
+  },
+  {
+    "id": 13,
+    "title": "Adobe Color Wheel",
+    "category": "design",
+    "link": "https://color.adobe.com",
+    "description": "Tool for creating and exploring color schemes."
+  },
+  {
+    "id": 14,
+    "title": "MIT OpenCourseWare",
+    "category": "science",
+    "link": "https://ocw.mit.edu",
+    "description": "Free course materials from MIT covering various subjects."
+  },
+  {
+    "id": 15,
+    "title": "Grammar Girl",
+    "category": "language",
+    "link": "https://www.quickanddirtytips.com/grammar-girl",
+    "description": "Quick and dirty tips for better writing and grammar."
+  }
+]
